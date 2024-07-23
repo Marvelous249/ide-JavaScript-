@@ -1,0 +1,74 @@
+.Border {
+    border: 1px solid black;
+}
+.Main {
+    display: flex;
+    flex-direction: row;
+}
+.hello{
+    display: flex;
+    flex-direction: row;
+}
+.Semi-main{
+    /*display: flex;*/
+}
+/*.Main{*/
+/*    width: 100%;*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*}*/
+/*.Button{*/
+/*    width: 100px;*/
+/*    height: 50px;*/
+/*}*/
+/*.Semi-mains{*/
+/*    display: flex;*/
+/*    !*font-size: large;*!*/
+
+/*}*/
+/*.writing{*/
+/*    display: flex;*/
+/*}*/
+/*.write{*/
+/*    font-size: xxx-large;*/
+/*}*/
+/*.picture{*/
+/*    padding-left: 20%;*/
+/*    margin-top: -5%;*/
+/*}*/
+/*.Aboutus{*/
+/*    display: flex;*/
+/*    padding-left: 30%;*/
+/*}*/
+/*.AboutUsTest{*/
+/*    text-align: center;*/
+/*    margin-top: -3%;*/
+/*}*/
+/*.pics{*/
+/*    padding-left: 55%;*/
+/*    margin-top: -4%;*/
+/*}*/
+/*.our{*/
+/*    font-size: xxx-large;*/
+/*}*/
+/*.stated{*/
+/*    background-color: dodgerblue;*/
+/*    color: white;*/
+/*    justify-content: space-around;*/
+/*    cursor: pointer;*/
+/*    width: 25%;*/
+/*    height: 15%;*/
+/*}*/
+/*.guide{*/
+/*    display: flex;*/
+/*}*/
+/*.play{*/
+/*    margin-bottom: -5%;*/
+/*}*/
+/*.AboutThis{*/
+/*    background-color: dodgerblue;*/
+/*    color: white;*/
+/*    cursor: pointer;*/
+/*    width: 25%;*/
+/*    height: 15%;*/
+/*}*/

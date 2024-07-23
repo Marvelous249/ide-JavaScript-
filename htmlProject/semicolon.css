@@ -1,0 +1,286 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.semi_main{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.mother_div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.main_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+.example{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    font-size: xx-small;
+}
+
+.button{
+    background-color: white;
+    color: red;
+    padding: 9px;
+    border-radius: 7px;
+    font-size: 15px;
+    border-color: red;
+    cursor: pointer;
+}
+
+.hero{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 70px;
+    gap: 60px;
+}
+
+
+.paragraph{
+    font-size: xxx-large;
+    font-weight: bold;
+    color:darkslategrey;
+    margin-bottom: 0;
+
+}
+.paragraph2{
+    margin-top: 0;
+    font-size: small;
+}
+
+.hero-section{
+    display: flex;
+    gap: 15px;
+}
+
+
+
+.individualButton{
+    width: 125px;
+    height: 40px;
+    border-radius: 7px;
+    color: white;
+    background-color: red;
+    border:none;
+    font-size: 17px;
+    cursor: pointer;
+}
+.businessButton{
+    width: 125px;
+    height: 40px;
+    border-radius: 7px;
+    color: red;
+    background-color: white;
+    font-size: 17px;
+    border-color: red;
+    cursor: pointer;
+/display: flex;/
+}
+
+
+.gif{
+    width: 700px;
+    height: 600px;
+    margin-top: -70px;
+}
+
+
+.WhatWeDo{
+    font-size: xx-large;
+    color: rgb(59,81,109);
+    margin-left: 200px;
+}
+
+.sup-div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: white;
+    font-size: 20px;
+    margin-left: 200px;
+
+}
+
+.support{
+    width: 540px;
+    height: 250px;
+    background-color: red;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+
+}
+
+.supports{
+    width: 540px;
+    height: 250px;
+    background-color: red;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    padding: 20px;
+
+
+}
+
+.box{
+    border-color: white;
+    width: 50px;
+    height: 50px;
+}
+.wedo{
+    padding-left: 20px;
+}
+.tr{
+    padding-left: 10px;
+    font-size: xx-large;
+}
+.enu{
+    margin-bottom: 1000px;
+}
+
+.learn{
+    text-align: center;
+    margin-top: -175px;
+
+}
+
+.smallenum{
+    text-align: center;
+    margin-top: -20px;
+    font-size: small;
+}
+
+.learnButton{
+    margin-left: 850px;
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 7px;
+    width: 155px;
+    height:45px
+}
+.GlobalText{
+    margin-left: 700px;
+}
+
+.brands {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.brands> img{
+    padding-inline:2vw;
+    padding-block: 1.7vw;
+}
+._innerTestimonyCtn_{
+    display: flex;
+    padding: 4vw 2vw;
+    background-color: red;
+    color: #efefef;
+    height: 200px;
+    font-weight: bolder;
+}
+.justify-center {
+    justify-content: center;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+    background-color: #F2F9FF;
+    height: 600px;
+}
+._logo_enum {
+    padding-left: 46%;
+    background-color: #F2F9FF;
+    margin-top: 30px;
+
+}
+.immg{
+    margin-left: 1200px;
+    margin-top: -500px;
+}
+.text{
+    background-color: red;
+    color: white;
+    width: 469px;
+}
+._innerCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid #FF2E2E;
+    background: #fff2c7;
+    flex-direction: column;
+    gap: 30px;
+    width: 600px;
+    margin-left: 600px;
+    margin-top: 50px;
+}
+.btn{
+    background-color: red;
+    color: white;
+}
+.shape{
+    max-width: 50%;
+    height: auto;
+    align-items: flex-end;
+    display: block;
+    vertical-align: middle;
+}
+
+._line_ {
+    align-self: stretch;
+    position: relative;
+    width: 1px;
+    height: 211.5px;
+    right: 19px;
+    top: calc(50% - 106px);
+    border: 1px solid #ffffff;
+    margin-left: 450px;
+}
+
+._textContent_{
+    font-size: x-large;
+
+}
+.texts{
+    margin-left: 100px;
+    
+}
+
+.tx{
+    display: flex;
+    margin-top: 100px;
+}
+.tx > div {
+    margin-inline: 7vw;
+    font-size: large;
+}
+.shapes{
+    margin-left: 1200px;
+    margin-top: -80px;
+}
